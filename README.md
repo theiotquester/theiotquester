@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theiotquester
 - 👀 I’m interested in the Internet of Things
-- 🌱 and I’m currently implementing IoT projects
+- 🌱 and I’m building IoT projects
 
 <!---
 theiotquester/theiotquester is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
